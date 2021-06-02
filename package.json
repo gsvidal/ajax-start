@@ -1,0 +1,15 @@
+{
+  "name": "ajax-start",
+  "version": "1.0.0",
+  "description": "XMLHttpRequest ajax basic example from MDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax",
+    "xhr"
+  ],
+  "author": "Gonzalo Vidal",
+  "license": "ISC"
+}
